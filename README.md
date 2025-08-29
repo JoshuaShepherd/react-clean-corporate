@@ -5,10 +5,12 @@ A clean, professional SaaS UI shell built with Next.js 15, TypeScript, and Tailw
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 - **Node.js**: v18+ (tested with v20.19.2)
 - **npm**: v9+ (tested with v10.8.2)
 
 ### Installation
+
 ```bash
 # Clone the repository
 git clone https://github.com/JoshuaShepherd/react-clean-corporate.git
@@ -25,6 +27,7 @@ npm run dev
 ```
 
 ### Available Scripts
+
 ```bash
 npm run dev      # Start development server (http://localhost:3000)
 npm run build    # Create production build
@@ -35,7 +38,9 @@ npm run format   # Format code with Prettier
 ```
 
 ### Environment Variables
+
 See `.env.example` for available environment variables. Key variables:
+
 - `NEXT_PUBLIC_SITE_URL` - Your site URL
 - `NEXT_PUBLIC_SITE_NAME` - Site name for branding
 
